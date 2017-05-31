@@ -1,0 +1,16 @@
+PODS:
+  - SendIndicator (0.0.1)
+
+DEPENDENCIES:
+  - SendIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  SendIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SendIndicator: 8bcb50718fc03ae3187030c3a9468fc8e0e62956
+
+PODFILE CHECKSUM: 0d26c204bd95934f7e07387fb499ba78324eeee0
+
+COCOAPODS: 1.2.1
