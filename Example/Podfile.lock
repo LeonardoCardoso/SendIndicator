@@ -1,5 +1,5 @@
 PODS:
-  - SendIndicator (0.0.1)
+  - SendIndicator (0.0.2)
 
 DEPENDENCIES:
   - SendIndicator (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SendIndicator: 8bcb50718fc03ae3187030c3a9468fc8e0e62956
+  SendIndicator: 161bbbb74dc30f783f027584d8b69f9d4ceab668
 
 PODFILE CHECKSUM: 0d26c204bd95934f7e07387fb499ba78324eeee0
 

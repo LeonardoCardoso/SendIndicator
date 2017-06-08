@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
  s.name = 'SendIndicator'
- s.version = '0.0.1'
+ s.version = '0.0.2'
  s.license = { :type => "MIT", :file => "LICENSE" }
  s.summary = 'Yet another task indicator'
  s.homepage = 'https://github.com/LeonardoCardoso/SendIndicator'

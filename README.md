@@ -3,7 +3,7 @@
 ![showcase](Images/showcase.gif)
 
 [![Platform](https://img.shields.io/badge/platform-iOS-orange.svg)](https://github.com/LeonardoCardoso/SendIndicator#requirements-and-details)
-[![CocoaPods](https://img.shields.io/badge/pod-v0.0.1-red.svg)](https://github.com/LeonardoCardoso/SendIndicator#cocoapods)
+[![CocoaPods](https://img.shields.io/badge/pod-v0.0.2-red.svg)](https://github.com/LeonardoCardoso/SendIndicator#cocoapods)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg)](https://github.com/LeonardoCardoso/SendIndicator#carthage)
 
 > Yet another task indicator
@@ -29,7 +29,7 @@
 $ gem install cocoapods
 ```
 
-> CocoaPods 1.1.0+ is required to build SendIndicator 0.0.1+.
+> CocoaPods 1.1.0+ is required to build SendIndicator 0.0.2+.
 
 To integrate SendIndicator into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
@@ -38,7 +38,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 use_frameworks!
 
-pod 'SendIndicator', '~> 0.0.1'
+pod 'SendIndicator', '~> 0.0.2'
 ```
 
 Then, run the following command:
@@ -61,7 +61,7 @@ $ brew install carthage
 To integrate SendIndicator into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "LeonardoCardoso/SendIndicator" ~> 0.0.1
+github "LeonardoCardoso/SendIndicator" ~> 0.0.2
 ```
 
 ### Manually

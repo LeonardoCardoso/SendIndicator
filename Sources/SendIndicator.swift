@@ -318,6 +318,8 @@ open class SendIndicator: UIView {
 
             palette.indicatorColor = indicatorColor ?? palette.indicatorColor
 
+            draw()
+
         }
 
     }
@@ -335,6 +337,8 @@ open class SendIndicator: UIView {
     override init(frame: CGRect) {
 
         super.init(frame: frame)
+
+        self.draw()
 
     }
 
